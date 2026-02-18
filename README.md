@@ -1,4 +1,28 @@
-# EasyEstate
-EasyEstate is a full-stack real estate web application built using React, Node.js, and Firebase. Users can register, login, and view property listings.
-<br>
-Author by Deeparani Nayak
+# 🏠 EasyEstate
+
+EasyEstate is a full-stack real estate web application built using:
+
+- ⚛️ React
+- 🌐 Node.js
+- 🔥 Firebase
+
+Users can:
+- Register
+- Login
+- View property listings
+- Add properties
+
+---
+
+## 🚀 Features
+
+- Authentication system
+- Property listing
+- Responsive design
+
+---
+
+## 👩‍💻 Author
+
+**Deeparani Nayak**
+
