@@ -28,7 +28,10 @@ function Properties() {
         </div>
 
         <div className="card">
-          <img src="https://images.unsplash.com/photo-1582407947304-fd86f028f716" alt="" />
+          <img
+            src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+            alt="Family House"
+          />
           <div className="card-body">
             <h3>Family House</h3>
             <p>📍 Puri</p>

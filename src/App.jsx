@@ -14,6 +14,8 @@ import PropertyList from "./pages/PropertyList";
 import PropertyDetails from "./pages/PropertyDetails";
 import Contact from "./pages/Contact";
 
+import AddProperty from "./pages/AddProperty";
+
 function App() {
   return (
     <>
@@ -46,6 +48,8 @@ function App() {
 
         {/* Contact Page */}
         <Route path="/contact" element={<Contact />} />
+
+        <Route path="/add-property" element={<AddProperty />} />
       </Routes>
 
       <Footer />
